@@ -27,7 +27,7 @@ It is a **responsive image gallery** built using **HTML, CSS, and JavaScript**, 
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 ├── index.html        # Main HTML file
 ├── style.css         # CSS styling
 ├── script.js         # JavaScript functionality
